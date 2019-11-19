@@ -9,13 +9,8 @@ Links to the site:  https://yunmo-mo.github.io/Resume/
 <title>Yun Mo - Resume</title>
 
 <meta name="viewport" content="width=device-width"/>
-<meta name="description" content="The Curriculum Vitae of Yun Mo."/>
+<meta name="description" content="The Resume of Yun Mo."/>
 <meta charset="UTF-8"> 
-
-<link type="text/css" rel="stylesheet" href="style.css">
-<link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700|Lato:400,300' rel='stylesheet' 
-
-type='text/css'>
 
 <!--[if lt IE 9]>
 <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -26,7 +21,7 @@ type='text/css'>
 	<div class="mainDetails">
 
 		<div id="name">
-			<h1 class="quickFade delayTwo">JYun Mo</h1>
+			<h1 class="quickFade delayTwo">Yun Mo</h1>
 		</div>
 		
 		<div id="contactDetails" class="quickFade delayFour">
