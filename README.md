@@ -1,7 +1,9 @@
+Links to the site:  https://yunmo-mo.github.io/Resume/
+
 <!DOCTYPE html>
 <html>
 <head>
-<title>Yun Mo - Curriculum Vitae</title>
+<title>Yun Mo - Resume</title>
 
 <meta name="viewport" content="width=device-width"/>
 <meta name="description" content="The Curriculum Vitae of Yun Mo."/>
