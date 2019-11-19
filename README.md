@@ -124,7 +124,7 @@ bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.</p>
 			
 			<div class="sectionContent">
 				<article>
-					<h2>College/University</h2>
+					<h2>Virginia Tech</h2>
 					<p class="subDetails">Qualification</p>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing 
 
@@ -132,7 +132,7 @@ elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat en
 				</article>
 				
 				<article>
-					<h2>College/University</h2>
+					<h2>Ocean University of China</h2>
 					<p class="subDetails">Qualification</p>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing 
 
