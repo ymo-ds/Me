@@ -1,4 +1,4 @@
-Links to the site:  https://yun-ds.github.io/Resume/
+Links to the site:  https://ymo-ds.github.io/Resume/
 
 <!DOCTYPE html>
 <html>
