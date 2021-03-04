@@ -23,11 +23,10 @@ Links to the site:  https://ymo-ds.github.io/Resume/
 		
 		<div id="contactDetails" class="quickFade delayFour">
 			<ul>
-				<li>e: <a href="mailto:moyun2012@gmail.com" 
+				<li>email: <a href="mailto:moyun2012@gmail.com" 
 
 target="_blank">moyun2012@gmail.com</a></li>
 				<li>w: <a href="http://www.bloggs.com">www.bloggs.com</a></li>
-				<li>m: 01234567890</li>
 			</ul>
 		</div>
 		<div class="clear"></div>
@@ -41,15 +40,7 @@ target="_blank">moyun2012@gmail.com</a></li>
 				</div>
 				
 				<div class="sectionContent">
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing 
-
-elit. Integer dolor metus, interdum at scelerisque in, porta at lacus. Maecenas dapibus luctus 
-
-cursus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat 
-
-luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id 
-
-sapien quis libero interdum porttitor.</p>
+					<p>Extensive working experience in healthcare, data analysis and visualisation with great potential in career development and versatility</p>
 				</div>
 			</article>
 			<div class="clear"></div>
@@ -63,13 +54,12 @@ sapien quis libero interdum porttitor.</p>
 			
 			<div class="sectionContent">
 				<article>
-					<h2>Job Title at Company</h2>
-					<p class="subDetails">April 2011 - Present</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing 
-
-elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum 
-
-bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.</p>
+					<h2>Research Analyst, Virginia Department of Education</h2>
+					<p class="subDetails">November 2016 - Present</p>
+					<p>•	Provided statistical advice to the Office of the Superintendent of Public Instruction and executive leadership by synthesizing scientific literature, coordinating research studies, and analyzing and interpreting data in support of the operations and strategic goals of the Department of Education, Board of Education, Governor, and General Assembly
+•	Extracted and cleaned data from various sources such as Oracle databases or surveys to address research questions and make recommendations for practices and policies
+•	Utilized SQL, R, Tableau , Excel, QGIS to conduct statistical analysis and illustrate research findings
+</p>
 				</article>
 				
 				<article>
