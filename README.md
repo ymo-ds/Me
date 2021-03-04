@@ -23,17 +23,17 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Template>Normal</o:Template>
   <o:LastAuthor>Ours</o:LastAuthor>
   <o:Revision>2</o:Revision>
-  <o:TotalTime>16</o:TotalTime>
+  <o:TotalTime>13</o:TotalTime>
   <o:LastPrinted>2018-06-30T03:40:00Z</o:LastPrinted>
-  <o:Created>2021-03-04T19:22:00Z</o:Created>
-  <o:LastSaved>2021-03-04T19:22:00Z</o:LastSaved>
-  <o:Pages>2</o:Pages>
-  <o:Words>1146</o:Words>
-  <o:Characters>6538</o:Characters>
+  <o:Created>2021-03-04T19:50:00Z</o:Created>
+  <o:LastSaved>2021-03-04T19:50:00Z</o:LastSaved>
+  <o:Pages>3</o:Pages>
+  <o:Words>1182</o:Words>
+  <o:Characters>6741</o:Characters>
   <o:Company>Microsoft</o:Company>
-  <o:Lines>54</o:Lines>
+  <o:Lines>56</o:Lines>
   <o:Paragraphs>15</o:Paragraphs>
-  <o:CharactersWithSpaces>7669</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>7908</o:CharactersWithSpaces>
   <o:Version>14.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -502,8 +502,7 @@ p.MsoCommentText, li.MsoCommentText, div.MsoCommentText
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 p.MsoHeader, li.MsoHeader, div.MsoHeader
-	{mso-style-noshow:yes;
-	mso-style-priority:99;
+	{mso-style-priority:99;
 	mso-style-link:"Header Char";
 	margin:0in;
 	margin-bottom:.0001pt;
@@ -892,7 +891,6 @@ span.Heading4Char
 	font-style:italic;}
 span.HeaderChar
 	{mso-style-name:"Header Char";
-	mso-style-noshow:yes;
 	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
@@ -1984,19 +1982,56 @@ ul
 
 <div class=WordSection1>
 
-<p class=Dates align=center style='text-align:center;line-height:105%'><b
+<p class=Dates align=left style='margin-top:0in;text-align:left;line-height:
+150%'><span style='font-size:11.0pt;line-height:150%;font-family:"Times New Roman","serif";
+mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN;font-style:normal'>Resume:
+<a href="https://ymo-ds.github.io/Resume/">https://ymo-ds.github.io/Resume/</a>
+<span style='mso-spacerun:yes'>&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span>Tableau Public: <a
+href="https://public.tableau.com/profile/yun7336#!/">https://public.tableau.com/profile/yun7336#!/</a><o:p></o:p></span></p>
+
+<p class=Dates align=left style='text-align:left;line-height:150%'><span
+style='font-size:11.0pt;line-height:150%;font-family:"Times New Roman","serif";
+mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN;font-style:normal'><o:p>&nbsp;</o:p></span></p>
+
+<p class=Dates align=center style='text-align:center;line-height:150%'><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
-105%;font-family:"Times New Roman","serif";mso-fareast-font-family:宋体;
+150%;font-family:"Times New Roman","serif";mso-fareast-font-family:宋体;
 mso-fareast-language:ZH-CN;font-style:normal'>EDUCATION<o:p></o:p></span></b></p>
 
-<p class=Dates align=left style='text-align:left;line-height:105%'><b
+<p class=Dates align=left style='text-align:left;line-height:150%'><b
 style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;line-height:
-105%;font-family:"Times New Roman","serif";mso-fareast-font-family:宋体;
+150%;font-family:"Times New Roman","serif";mso-fareast-font-family:宋体;
 mso-fareast-language:ZH-CN;font-style:normal'>Doctorate of Philosophy in
 Educational Research and Evaluation <o:p></o:p></span></b></p>
 
-<p class=Dates align=left style='text-align:left;line-height:105%'><span
-style='font-size:11.0pt;line-height:105%;font-family:"Times New Roman","serif";
+<p class=Dates align=left style='text-align:left;line-height:150%'><span
+style='font-size:11.0pt;line-height:150%;font-family:"Times New Roman","serif";
 mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN;font-style:normal'>Virginia
 Polytechnic Institute and State University (Virginia Tech), Blacksburg,
 Virginia<span
@@ -2004,38 +2039,38 @@ style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 </span><span
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>2008<o:p></o:p></span></p>
 
-<p class=Dates align=left style='text-align:left;line-height:105%'><span
-style='font-size:11.0pt;line-height:105%;font-family:"Times New Roman","serif";
+<p class=Dates align=left style='text-align:left;line-height:150%'><span
+style='font-size:11.0pt;line-height:150%;font-family:"Times New Roman","serif";
 mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN;font-style:normal'>Concentration:
 Statistics<o:p></o:p></span></p>
 
 <p class=Dates style='text-align:justify;text-justify:inter-ideograph;
-line-height:105%'><span class=GramE><b style='mso-bidi-font-weight:normal'><span
-style='font-size:11.0pt;line-height:105%;font-family:"Times New Roman","serif";
+line-height:150%'><span class=GramE><b style='mso-bidi-font-weight:normal'><span
+style='font-size:11.0pt;line-height:150%;font-family:"Times New Roman","serif";
 mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN;font-style:normal'>Bachelor
 of Economics, Department of Applied Mathematics</span></b><span
-style='font-size:11.0pt;line-height:105%;font-family:"Times New Roman","serif";
+style='font-size:11.0pt;line-height:150%;font-family:"Times New Roman","serif";
 mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN;font-style:normal'>, Ocean
 University of China, Qingdao.</span></span><span style='font-size:11.0pt;
-line-height:105%;font-family:"Times New Roman","serif";mso-fareast-font-family:
+line-height:150%;font-family:"Times New Roman","serif";mso-fareast-font-family:
 宋体;mso-fareast-language:ZH-CN;font-style:normal'> China<span
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>1999<o:p></o:p></span></p>
 
-<p class=Dates align=center style='text-align:center;line-height:105%'><b
+<p class=Dates align=center style='text-align:center;line-height:150%'><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
-105%;font-family:"Times New Roman","serif";mso-fareast-font-family:宋体;
+150%;font-family:"Times New Roman","serif";mso-fareast-font-family:宋体;
 mso-fareast-language:ZH-CN;font-style:normal'><o:p>&nbsp;</o:p></span></b></p>
 
-<p class=Dates align=center style='text-align:center;line-height:105%'><b
+<p class=Dates align=center style='text-align:center;line-height:150%'><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
-105%;font-family:"Times New Roman","serif";mso-fareast-font-family:宋体;
+150%;font-family:"Times New Roman","serif";mso-fareast-font-family:宋体;
 mso-fareast-language:ZH-CN;font-style:normal'>PROFESSIONAL EXPERIENCE<o:p></o:p></span></b></p>
 
-<p class=Dates align=left style='text-align:left;line-height:105%'><b
+<p class=Dates align=left style='text-align:left;line-height:150%'><b
 style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;line-height:
-105%;font-family:"Times New Roman","serif";font-style:normal'>Research Analyst,
-</span></b><span style='font-size:11.0pt;line-height:105%;font-family:"Times New Roman","serif";
+150%;font-family:"Times New Roman","serif";font-style:normal'>Research Analyst,
+</span></b><span style='font-size:11.0pt;line-height:150%;font-family:"Times New Roman","serif";
 font-style:normal'>Virginia Department of Education<span style='mso-tab-count:
 4'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2044,7 +2079,7 @@ style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 2016 <span class=GramE>– <span style='mso-spacerun:yes'>&nbsp;</span>Current</span><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in;line-height:105%;
+margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in;line-height:150%;
 mso-list:l11 level1 lfo6'><![if !supportLists]><span style='font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
 style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2056,7 +2091,7 @@ interpreting data in support of the operations and strategic goals of the
 Department of Education, Board of Education, Governor, and General Assembly<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in;line-height:105%;
+margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in;line-height:150%;
 mso-list:l11 level1 lfo6'><![if !supportLists]><span style='font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
 style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2066,7 +2101,7 @@ such as Oracle databases or surveys to address research questions and make
 recommendations for practices and policies<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in;line-height:105%;
+margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in;line-height:150%;
 mso-list:l11 level1 lfo6'><![if !supportLists]><span style='font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
 style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2075,7 +2110,7 @@ mso-fareast-font-family:宋体'>Utilized SQL, R, Tableau , Excel, QGIS to conduc
 statistical analysis and illustrate research findings<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in;line-height:105%;
+margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in;line-height:150%;
 mso-list:l11 level1 lfo6'><![if !supportLists]><span style='font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
 style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2084,35 +2119,35 @@ mso-fareast-font-family:宋体'>Key projects: Virginia’s Return to School
 Instructional Schedules School Year 2020-2021 <o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:81.0pt;margin-bottom:.0001pt;line-height:105%'><span
+margin-left:81.0pt;margin-bottom:.0001pt;line-height:150%'><span
 style='font-family:"Times New Roman","serif";mso-fareast-font-family:宋体'>(</span><a
 href="https://www.doe.virginia.gov/support/health_medical/office/reopen-status.shtml"><span
 style='font-family:"Times New Roman","serif";mso-fareast-font-family:宋体'>https://www.doe.virginia.gov/support/health_medical/office/reopen-status.shtml</span></a><span
 style='font-family:"Times New Roman","serif";mso-fareast-font-family:宋体'>)<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:81.0pt;margin-bottom:.0001pt;line-height:105%'><span
+margin-left:81.0pt;margin-bottom:.0001pt;line-height:150%'><span
 style='font-family:"Times New Roman","serif";mso-fareast-font-family:宋体'>Virginia
 Computer Science Dashboard<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:81.0pt;margin-bottom:.0001pt;line-height:105%'><span
+margin-left:81.0pt;margin-bottom:.0001pt;line-height:150%'><span
 style='font-family:"Times New Roman","serif";mso-fareast-font-family:宋体'>(</span><a
 href="https://www.doe.virginia.gov/instruction/computer-science/virginia-cs-dashboard.shtml"><span
 style='font-family:"Times New Roman","serif";mso-fareast-font-family:宋体'>https://www.doe.virginia.gov/instruction/computer-science/virginia-cs-dashboard.shtml</span></a><span
 style='font-family:"Times New Roman","serif";mso-fareast-font-family:宋体'>)<o:p></o:p></span></p>
 
-<p class=Dates align=left style='text-align:left;line-height:105%'><b
+<p class=Dates align=left style='text-align:left;line-height:150%'><b
 style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;line-height:
-105%;font-family:"Times New Roman","serif";font-style:normal'>Senior Policy and
+150%;font-family:"Times New Roman","serif";font-style:normal'>Senior Policy and
 Research Data Analyst,</span></b><span style='font-size:11.0pt;line-height:
-105%;font-family:"Times New Roman","serif";font-style:normal'> VA Department of
+150%;font-family:"Times New Roman","serif";font-style:normal'> VA Department of
 Medical Assistance Services <span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;</span>Sep 2014 – Nov 2016<span
 style='mso-spacerun:yes'>&nbsp; </span><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in;line-height:105%;
+margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in;line-height:150%;
 mso-list:l11 level1 lfo6'><![if !supportLists]><span style='font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
 style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2121,7 +2156,7 @@ mso-fareast-font-family:宋体'>Served as an expert in development, analysis and
 review of data request<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in;line-height:105%;
+margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in;line-height:150%;
 mso-list:l11 level1 lfo6'><![if !supportLists]><span style='font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
 style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2132,7 +2167,7 @@ analytics finding to business users<span style='mso-spacerun:yes'>&nbsp;
 </span><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in;line-height:105%;
+margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in;line-height:150%;
 mso-list:l11 level1 lfo6'><![if !supportLists]><span style='font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
 style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2141,7 +2176,7 @@ mso-fareast-font-family:宋体'>Communicated with other state agencies to share,
 manage, and analyze data; created regular dashboard/reports<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in;line-height:105%;
+margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in;line-height:150%;
 mso-list:l11 level1 lfo6'><![if !supportLists]><span style='font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
 style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2151,7 +2186,7 @@ Illness and Disability Payment System (CDPS) risk adjustment model by region,
 aid category and disease<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in;line-height:105%;
+margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in;line-height:150%;
 mso-list:l11 level1 lfo6'><![if !supportLists]><span style='font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
 style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2160,30 +2195,30 @@ mso-fareast-font-family:宋体'>Key projects: Long Term Care Pre-Admission
 Screening<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:81.0pt;margin-bottom:.0001pt;line-height:105%'><span
+margin-left:81.0pt;margin-bottom:.0001pt;line-height:150%'><span
 style='font-family:"Times New Roman","serif";mso-fareast-font-family:宋体'>The
 Trends in FAMIS Enrollment<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:81.0pt;margin-bottom:.0001pt;line-height:105%'><span
+margin-left:81.0pt;margin-bottom:.0001pt;line-height:150%'><span
 style='font-family:"Times New Roman","serif";mso-fareast-font-family:宋体'>Commonwealth
 Coordinated Care Plus (CCC Plus) provider network<o:p></o:p></span></p>
 
-<p class=Dates align=left style='text-align:left;line-height:105%'><b
+<p class=Dates align=left style='text-align:left;line-height:150%'><b
 style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;line-height:
-105%;font-family:"Times New Roman","serif";mso-fareast-font-family:宋体;
+150%;font-family:"Times New Roman","serif";mso-fareast-font-family:宋体;
 mso-fareast-language:ZH-CN;font-style:normal'>Research Associate</span></b><span
-style='font-size:11.0pt;line-height:105%;font-family:"Times New Roman","serif";
+style='font-size:11.0pt;line-height:150%;font-family:"Times New Roman","serif";
 mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN;font-style:normal'>,
 Educational Technology Institute (THETI), Tsinghua University, China</span><span
-style='font-size:11.0pt;line-height:105%'><span
+style='font-size:11.0pt;line-height:150%'><span
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><span style='font-size:11.0pt;line-height:105%;font-family:"Times New Roman","serif";
+</span></span><span style='font-size:11.0pt;line-height:150%;font-family:"Times New Roman","serif";
 mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN;font-style:normal'>Feb
 2012 – Jan 2014<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in;line-height:105%;
+margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in;line-height:150%;
 mso-list:l11 level1 lfo6'><![if !supportLists]><span style='font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
 style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2194,22 +2229,22 @@ datasets with Excel and SPSS/SAS, responded to data requests from researchers,
 and assisted with problem solving and policy revision processes<o:p></o:p></span></p>
 
 <p class=Dates align=left style='margin-left:.25in;text-align:left;text-indent:
--.25in;line-height:105%;mso-list:l11 level1 lfo6'><![if !supportLists]><span
-style='font-size:11.0pt;line-height:105%;font-family:Symbol;mso-fareast-font-family:
+-.25in;line-height:150%;mso-list:l11 level1 lfo6'><![if !supportLists]><span
+style='font-size:11.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:ZH-CN;font-style:normal'><span
 style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:11.0pt;line-height:105%;
+</span></span></span><![endif]><span style='font-size:11.0pt;line-height:150%;
 font-family:"Times New Roman","serif";mso-fareast-font-family:宋体;font-style:
 normal'>Trained graduate students in research design, literature searching,
 research methodology and academic writing</span><span style='font-size:11.0pt;
-line-height:105%;font-family:"Times New Roman","serif";mso-fareast-font-family:
+line-height:150%;font-family:"Times New Roman","serif";mso-fareast-font-family:
 宋体;mso-fareast-language:ZH-CN;font-style:normal'><o:p></o:p></span></p>
 
-<p class=Dates align=left style='text-align:left;line-height:105%'><b
+<p class=Dates align=left style='text-align:left;line-height:150%'><b
 style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;line-height:
-105%;font-family:"Times New Roman","serif";mso-fareast-font-family:宋体;
+150%;font-family:"Times New Roman","serif";mso-fareast-font-family:宋体;
 mso-fareast-language:ZH-CN;font-style:normal'>Graduate Assistant/Lab Consultant</span></b><span
-style='font-size:11.0pt;line-height:105%;font-family:"Times New Roman","serif";
+style='font-size:11.0pt;line-height:150%;font-family:"Times New Roman","serif";
 mso-fareast-font-family:宋体;mso-fareast-language:ZH-CN;font-style:normal'>, Education
 Research and Consulting Lab, Virginia Tech<span
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
@@ -2219,7 +2254,7 @@ style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 – 2008<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in;line-height:105%;
+margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in;line-height:150%;
 mso-list:l11 level1 lfo6'><![if !supportLists]><span style='font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
 style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2229,7 +2264,7 @@ evaluation design, instrument development, and quantitative data analysis to
 graduate students working on project/thesis/dissertations<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in;line-height:105%;
+margin-left:.25in;margin-bottom:.0001pt;text-indent:-.25in;line-height:150%;
 mso-list:l11 level1 lfo6'><![if !supportLists]><span style='font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
 style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2237,49 +2272,34 @@ style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp
 mso-fareast-font-family:宋体'>Provided instructions for a variety of statistical
 packages (SAS, SPSS, HLM, <span class=SpellE>Lisrel</span>, <span class=SpellE>Winsteps</span>)<o:p></o:p></span></p>
 
-<p class=Dates align=center style='text-align:center;line-height:105%'><b
+<p class=Dates align=center style='text-align:center;line-height:150%'><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
-105%;font-family:"Times New Roman","serif";mso-fareast-font-family:宋体;
+150%;font-family:"Times New Roman","serif";mso-fareast-font-family:宋体;
 mso-fareast-language:ZH-CN;font-style:normal'><o:p>&nbsp;</o:p></span></b></p>
 
-<p class=Dates align=center style='text-align:center;line-height:105%'><b
+<p class=Dates align=center style='text-align:center;line-height:150%'><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
-105%;font-family:"Times New Roman","serif";mso-fareast-font-family:宋体;
+150%;font-family:"Times New Roman","serif";mso-fareast-font-family:宋体;
 mso-fareast-language:ZH-CN;font-style:normal'>SKILLS<o:p></o:p></span></b></p>
 
-<p class=Dates align=left style='text-align:left;line-height:105%'><span
-style='font-size:11.0pt;line-height:105%;font-family:"Times New Roman","serif";
+<p class=Dates align=left style='text-align:left;line-height:150%'><span
+style='font-size:11.0pt;line-height:150%;font-family:"Times New Roman","serif";
 color:black;background:white;font-style:normal'>Tableau, R, SQL, SAS
 (Enterprise Guide, Enterprise Miner, Visual Analytics), SPSS, QGIS, Structural
 Equation Modeling, Longitudinal Research, Regression and ANOVA, Reports
 Writing, MS Office (Word, Excel, PowerPoint, and Access), Adobe Products
 (Acrobat, Photoshop, Captivate, and InDesign), Teamwork, Communication Skills,
 Problem Solving, Training, Consultation</span><span style='font-size:11.0pt;
-line-height:105%;font-family:"Times New Roman","serif";mso-fareast-font-family:
+line-height:150%;font-family:"Times New Roman","serif";mso-fareast-font-family:
 宋体;mso-fareast-language:ZH-CN;font-style:normal'><o:p></o:p></span></p>
 
-<p class=Dates align=center style='text-align:center;line-height:105%'><b
+<p class=Dates align=center style='text-align:center;line-height:150%'><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
-105%;font-family:"Times New Roman","serif";mso-fareast-font-family:宋体;
-mso-fareast-language:ZH-CN;font-style:normal'><o:p>&nbsp;</o:p></span></b></p>
-
-<p class=Dates align=center style='text-align:center;line-height:105%'><b
-style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
-105%;font-family:"Times New Roman","serif";mso-fareast-font-family:宋体;
-mso-fareast-language:ZH-CN;font-style:normal'><o:p>&nbsp;</o:p></span></b></p>
-
-<p class=Dates align=center style='text-align:center;line-height:105%'><b
-style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
-105%;font-family:"Times New Roman","serif";mso-fareast-font-family:宋体;
-mso-fareast-language:ZH-CN;font-style:normal'><o:p>&nbsp;</o:p></span></b></p>
-
-<p class=Dates align=center style='text-align:center;line-height:105%'><b
-style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
-105%;font-family:"Times New Roman","serif";mso-fareast-font-family:宋体;
+150%;font-family:"Times New Roman","serif";mso-fareast-font-family:宋体;
 mso-fareast-language:ZH-CN;font-style:normal'>PUBLICATIONS<o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:105%;
+margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:150%;
 mso-hyphenate:none;tab-stops:0in .5in 1.0in 117.0pt 135.0pt 153.0pt 3.0in'><b
 style='mso-bidi-font-weight:normal'><span style='font-family:"Times New Roman","serif";
 mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi'>Mo, Y., </span></b><span
@@ -2291,7 +2311,7 @@ achievement and course satisfaction on their ratings of teachers’ instruction.
 Technology Development and Exchange, 7</i>(1), 67- 77.</span><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:105%;
+margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:150%;
 mso-hyphenate:none;tab-stops:0in .5in 1.0in 117.0pt 135.0pt 153.0pt 3.0in'><span
 class=GramE><span style='font-family:"Times New Roman","serif"'>Spruill, N., <span
 class=SpellE>Hirt</span>, J.B., &amp; <b style='mso-bidi-font-weight:normal'>Mo,
@@ -2302,7 +2322,7 @@ Research, Theory &amp; Practice, 16</i>(1):25-48. DOI: 10.2190/CS.16.1.b.<b
 style='mso-bidi-font-weight:normal'><o:p></o:p></b></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:105%;
+margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:150%;
 mso-hyphenate:none;tab-stops:0in .5in 1.0in 117.0pt 135.0pt 153.0pt 3.0in'><b
 style='mso-bidi-font-weight:normal'><span style='font-family:"Times New Roman","serif";
 mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi'>Mo, Y.</span></b><span
@@ -2314,7 +2334,7 @@ International Conference of Educational Innovation through Technology</i>,
 295-302.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:105%'><span
+margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:150%'><span
 class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-family:
 "Times New Roman","serif";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
 minor-bidi'>Mo, Y.</span></b><span style='font-family:"Times New Roman","serif";
@@ -2331,7 +2351,7 @@ style='font-family:"Times New Roman","serif";mso-bidi-font-family:"Times New Rom
 mso-bidi-theme-font:minor-bidi'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:105%'><span
+margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:150%'><span
 class=GramE><span style='font-family:"Times New Roman","serif";mso-bidi-font-family:
 "Times New Roman";mso-bidi-theme-font:minor-bidi'>Wang, W., Han, X., &amp; <b
 style='mso-bidi-font-weight:normal'>Mo, Y.</b> <i style='mso-bidi-font-style:
@@ -2343,7 +2363,7 @@ style='mso-bidi-font-style:normal'>Technology Enhanced Language Learning</i>,
 pp.254-261.</span><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:105%;
+margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:150%;
 mso-hyphenate:none;tab-stops:0in .5in 1.0in 117.0pt 135.0pt 153.0pt 3.0in'><span
 class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-family:
 "Times New Roman","serif";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
@@ -2356,7 +2376,7 @@ and performance. <i>Research in Middle Level Education Online, 31</i><span
 style='mso-bidi-font-style:italic'>(10), 1-13. </span><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:105%;
+margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:150%;
 mso-hyphenate:none;tab-stops:0in .5in 1.0in 117.0pt 135.0pt 153.0pt 3.0in'><span
 class=GramE><span style='font-family:"Times New Roman","serif";mso-bidi-font-family:
 "Times New Roman";mso-bidi-theme-font:minor-bidi'>Chang, M., Singh, K., &amp; <b
@@ -2367,7 +2387,7 @@ Longitudinal models using NELS data. <i style='mso-bidi-font-style:normal'>Educa
 Research and Evaluation</i>, 13(4), 349 – 371.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:105%'><span
+margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:150%'><span
 style='font-family:"Times New Roman","serif";mso-bidi-font-family:"Times New Roman";
 mso-bidi-theme-font:minor-bidi'>Spruill, N., <span class=SpellE><span class=il>Hirt</span></span>,
 J.B., &amp; <b style='mso-bidi-font-weight:normal'>Mo, Y.</b> (in press). <span
@@ -2375,20 +2395,20 @@ class=GramE>Predicting persistence to degree of male college students.</span> <i
 style='mso-bidi-font-style:normal'>Journal of College Student Retention:
 Research, Theory &amp; Practice</i><o:p></o:p></span></p>
 
-<p class=Dates align=center style='text-align:center;line-height:105%'><b
+<p class=Dates align=center style='text-align:center;line-height:150%'><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
-105%;font-family:"Times New Roman","serif";font-style:normal'><o:p>&nbsp;</o:p></span></b></p>
+150%;font-family:"Times New Roman","serif";font-style:normal'><o:p>&nbsp;</o:p></span></b></p>
 
-<p class=Dates align=center style='text-align:center;line-height:105%'><b
+<p class=Dates align=center style='text-align:center;line-height:150%'><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
-105%;font-family:"Times New Roman","serif";font-style:normal'>CONFERENCES/PRESENTATIONS</span></b><b
+150%;font-family:"Times New Roman","serif";font-style:normal'>CONFERENCES/PRESENTATIONS</span></b><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
-105%;font-family:"Times New Roman","serif";mso-fareast-font-family:宋体;
+150%;font-family:"Times New Roman","serif";mso-fareast-font-family:宋体;
 mso-fareast-theme-font:minor-fareast;mso-fareast-language:ZH-CN;font-style:
 normal'><o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:105%'><span
+margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:150%'><span
 class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-family:
 "Times New Roman","serif";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
 minor-bidi'>Mo, Y.</span></b><span style='font-family:"Times New Roman","serif";
@@ -2400,7 +2420,7 @@ A HLM study on middle school science lessons</i>. Paper presented at the Annual
 Meeting of American Educational Research Association, Denver, CO.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:105%'><span
+margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:150%'><span
 class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-family:
 "Times New Roman","serif";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
 minor-bidi'>Mo, Y.</span></b><span style='font-family:"Times New Roman","serif";
@@ -2412,7 +2432,7 @@ students’ psychological and educational outcomes.</i> Paper presented at the
 Annual Meeting of American Educational Research Association, San Diego, CA.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:105%'><span
+margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:150%'><span
 class=GramE><span style='font-family:"Times New Roman","serif";mso-bidi-font-family:
 "Times New Roman";mso-bidi-theme-font:minor-bidi'>Singh, K., <b
 style='mso-bidi-font-weight:normal'>Mo, Y.</b>, &amp; Chang, M. (2009, April).</span></span><span
@@ -2423,7 +2443,7 @@ from TIMSS 2003. </i>Paper presented at the Annual Meeting of American
 Educational Research Association, San Diego, CA.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:105%'><span
+margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:150%'><span
 class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-family:
 "Times New Roman","serif";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
 minor-bidi'>Mo, Y.</span></b><span style='font-family:"Times New Roman","serif";
@@ -2436,7 +2456,7 @@ of Eastern Educational Research Association, Sarasota, FL.<b style='mso-bidi-fon
 normal'><o:p></o:p></b></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:105%'><b
+margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:150%'><b
 style='mso-bidi-font-weight:normal'><span style='font-family:"Times New Roman","serif";
 mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi'>Mo, Y.</span></b><span
 style='font-family:"Times New Roman","serif";mso-bidi-font-family:"Times New Roman";
@@ -2446,7 +2466,7 @@ school engagement and school performance</i>. Paper presented at the Annual
 Meeting of American Educational Research Association, New York City, NY.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:105%'><b
+margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:150%'><b
 style='mso-bidi-font-weight:normal'><span style='font-family:"Times New Roman","serif";
 mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi'>Mo, Y.</span></b><span
 style='font-family:"Times New Roman","serif";mso-bidi-font-family:"Times New Roman";
@@ -2457,7 +2477,7 @@ Meeting of Eastern Educational Research Association, Hilton Head, <span
 class=GramE>SC</span>.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:105%'><span
+margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:150%'><span
 class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-family:
 "Times New Roman","serif";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
 minor-bidi'>Mo, Y.</span></b><span style='font-family:"Times New Roman","serif";
@@ -2469,7 +2489,7 @@ Effects on students’ school engagement and performance.</i> Paper presented at
 the Annual Meeting of American Educational Research Association, Chicago, IL.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:105%'><span
+margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:150%'><span
 class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-family:
 "Times New Roman","serif";mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:
 minor-bidi'>Mo, Y.</span></b><span style='font-family:"Times New Roman","serif";
@@ -2482,7 +2502,7 @@ Paper presented at the Annual Meeting of Eastern Educational Research
 Association, Clearwater, FL.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:105%'><span
+margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:150%'><span
 class=GramE><span style='font-family:"Times New Roman","serif";mso-bidi-font-family:
 "Times New Roman";mso-bidi-theme-font:minor-bidi'>Singh, K., Chang, M., &amp; <b
 style='mso-bidi-font-weight:normal'>Mo, Y.</b> (2006, November).</span></span><span
@@ -2492,7 +2512,7 @@ achievement: Effects of self and engagement variables</i>. Paper presented at
 the Asia-Pacific Education Research Association Conference, HK.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:105%;
+margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:150%;
 mso-layout-grid-align:none;text-autospace:none'><b style='mso-bidi-font-weight:
 normal'><span style='font-family:"Times New Roman","serif";mso-bidi-font-family:
 "Times New Roman";mso-bidi-theme-font:minor-bidi'>Mo, Y.</span></b><span
@@ -2504,10 +2524,10 @@ style='font-family:"Arial","sans-serif"'> </span></i><span style='font-family:
 minor-bidi'>Paper presented at 2006 Add Health Users Conference. Bethesda, MD.<o:p></o:p></span></p>
 
 <p class=Objective style='margin-top:1.0pt;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:105%'><span
-class=GramE><span style='font-size:11.0pt;line-height:105%'>Singh, K., Chang,
+margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:150%'><span
+class=GramE><span style='font-size:11.0pt;line-height:150%'>Singh, K., Chang,
 M., &amp; <b style='mso-bidi-font-weight:normal'>Mo, Y.</b> (2006, April).</span></span><span
-style='font-size:11.0pt;line-height:105%'> <i style='mso-bidi-font-style:normal'>Science
+style='font-size:11.0pt;line-height:150%'> <i style='mso-bidi-font-style:normal'>Science
 engagement and science achievement: Longitudinal models using NELS data. </i>Paper
 presented at the Annual Meeting of American Educational Research Association,
 San Francisco, CA.<o:p></o:p></span></p>
